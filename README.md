@@ -77,7 +77,7 @@ Click a domain button below to expand and explore the repositories:
 * **Technical Mentorship:** Former Data Science Teaching Instructor—guided end-to-end student capstone analytics projects, focusing on robust problem framing, hypothesis testing, and interactive reporting using Power BI and Tableau.
 * **Tech Leadership:** Actively involved in driving developer communities, organizing regional tech initiatives, managing speaker acquisitions, and structuring agile hackathons.
 
----
+<!-- ---
 
 ## 📈 GitHub Analytics
 
@@ -85,7 +85,7 @@ Click a domain button below to expand and explore the repositories:
   <img src="https://github-readme-stats.vercel.app/api?username=anniemburu&show_icons=true&theme=radical" alt="Anne's GitHub Stats" />
   <img src="https://github-readme-top-langs.vercel.app/api/?username=anniemburu&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 ## 📫 Let's Connect!
