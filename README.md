@@ -8,7 +8,7 @@ I am a Data Scientist focused on building production-grade machine learning pipe
 - ⚡ Tech Philosophy: Clean OOP architecture, model explainability, and breaking data bottlenecks.
 - 🌱 Currently exploring: Advanced MLOps workflows and AI Agents.
 
-- ## 🚀 Featured Portfolio Projects
+## 🚀 Featured Portfolio Projects
 
 Click a domain button below to expand and explore the repositories:
 
