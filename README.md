@@ -13,7 +13,7 @@ I am a Data Scientist focused on building production-grade machine learning pipe
 Click a domain button below to expand and explore the repositories:
 
 <details>
-<summary style="background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 10px 15px; display: inline-block; cursor: pointer; font-weight: bold; color: #c9d1d9; margin-bottom: 8px;">
+<summary style="background-color: #4F46E5; border: none; border-radius: 6px; padding: 10px 18px; display: inline-block; cursor: pointer; font-weight: bold; color: #FFFFFF; margin-bottom: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   👁️ Computer Vision & Multimodal AI
 </summary>
 <br />
