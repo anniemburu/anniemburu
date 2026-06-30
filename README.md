@@ -13,7 +13,7 @@ I am a Data Scientist focused on building production-grade machine learning pipe
 Click a domain button below to expand and explore the repositories:
 
 <details>
-<summary><b>👁️ <code>&nbsp;Computer Vision & Multimodal AI&nbsp;</code></b></summary>
+<summary style="background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 10px 15px; display: inline-block; cursor: pointer; font-weight: bold; color: #c9d1d9; margin-bottom: 8px;><b>👁️ <code>&nbsp;Computer Vision & Multimodal AI&nbsp;</code></b></summary>
 <br />
 
 #### [AgroVision-Dx2: Plant Disease Classification](https://github.com/anniemburu/AgroVision-Dx)
