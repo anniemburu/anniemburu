@@ -29,7 +29,7 @@ Click a domain button below to expand and explore the repositories:
 </details>
 
 <details>
-<summary><b>📊 <code>&nbsp;Tabular Data & Explainable AI&nbsp;</code></b></summary>
+<summary style="background-color: #4F46E5; border: none; border-radius: 6px; padding: 10px 18px; display: inline-block; cursor: pointer; font-weight: bold; color: #FFFFFF; margin-bottom: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"><b>📊 <code>&nbsp;Tabular Data & Explainable AI&nbsp;</code></b></summary>
 <br />
 
 #### [Credit Card Fraud Fraud Analysis](https://github.com/anniemburu/credit_card_fraud_analysis)
@@ -42,7 +42,7 @@ Click a domain button below to expand and explore the repositories:
 </details>
 
 <details>
-<summary><b>📊 <code>&nbsp;NLP & LLMs&nbsp;</code></b></summary>
+<summary style="background-color: #4F46E5; border: none; border-radius: 6px; padding: 10px 18px; display: inline-block; cursor: pointer; font-weight: bold; color: #FFFFFF; margin-bottom: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"><b>📊 <code>&nbsp;NLP & LLMs&nbsp;</code></b></summary>
 <br />
   
 #### [Influencer Authenticity Scorer](https://github.com/anniemburu/Influencer-Authenticity-Scorer)
